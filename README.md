@@ -1,1 +1,1 @@
-![Logo](assets/logo.png)
+![Logo](assets/AppIcon.jpg)
