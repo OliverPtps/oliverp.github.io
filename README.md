@@ -1,1 +1,1 @@
-![Logo](assets/AppIcon.jpg)
+![Logo](./AppIcon.jpg)
